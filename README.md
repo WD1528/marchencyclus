@@ -3,7 +3,7 @@
 1̸̵̡̡͚͙͓͖̝̞̼̈́̐̐̒̈́̾5̴̵̘͍̫͚̠͉̈́͐̈́͐̚͜͠2̴̴̡̢̝̘̞͍͖̼͒̓́̀̽͐8̵̸̪̺̟̫̝͕͍̻͍͌̔͐͐̽͛D̵̴͚̙͔̠͓͇͚͕͆̿͒̚̚͜D̴̵̡͎͍͇̪͙̞̪̼̽͌̓̕̕͝𝟙𝟝𝟚𝟠𝔻𝔻
 
 .
-.<br />
+.
 ## Märchencyclus DOCS
 
 Documentation of chatbot code used in [Märchencyclus-streams](https://drive.google.com/file/d/1_4hBziRUHGyFvanUGl120_3g_cLNEPoJ/view?usp=sharing). Follow [1528DD's Twitch](https://www.twitch.tv/1528dd) for future installments of the project.
