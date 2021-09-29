@@ -1,5 +1,3 @@
-https://gist.github.com/derzorngottes/3b57edc1f996dddcab25
-
 const tmi = require('tmi.js');
 var osc = require("osc");
 
@@ -173,41 +171,6 @@ function onMessageHandler (target, context, msg, self) {
     console.log(`* Unknown command ${commandName}`);
   }
 }
-//
-// function onMessageHandler (target, context, msg, self) {
-//   if (self) { return; }
-//
-//   const commandName = msg.trim();
-//
-//   if (commandName.slice(0,6) === 'reverb') {
-//     var msg = {
-//       address: "/2/effects",
-//       args: [{
-//         type: "f",
-//         value: 0
-//       }, {
-//         type: "f",
-//         value: commandName.slice(6)
-//       }]
-//     };
-//     udpPort.send(msg);
-//   } else if (commandName.slice(0,10) === 'delay') {
-//     var msg = {
-//       address: "/2/effects",
-//       args: [{
-//         type: "f",
-//         value: 1
-//       }, {
-//         type: "f",
-//         value: commandName.slice(10)
-//       }]
-//     };
-//     udpPort.send(msg);
-//   } else {
-//     client.say(target, '?*??Å?ï??∏Å|¿??');
-//     console.log(`* Unknown effectscommand ${commandName}`);
-//   }
-// }
 
 // Called every time the bot connects to Twitch chat
 function onConnectedHandler (addr, port) {
