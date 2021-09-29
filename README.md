@@ -14,3 +14,4 @@ Documentation of chatbot code used in [Märchencyclus-streams](https://drive.goo
 * [Instagram](https://www.instagram.com/wannes_dewit/)
 * [Soundcloud](https://soundcloud.com/1528dd)
 * [Twitch](https://www.twitch.tv/1528dd)
+* [Märchencyclus##1 Recording](https://drive.google.com/file/d/1_4hBziRUHGyFvanUGl120_3g_cLNEPoJ/view?usp=sharing)
